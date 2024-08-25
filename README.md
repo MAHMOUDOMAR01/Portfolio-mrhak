@@ -18,5 +18,5 @@ This is a personal portfolio website built using React and React Router. It show
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
-
-
+```
+git clone https://github.com/MAHMOUDOMAR01/Portfolio-mrhak.git
